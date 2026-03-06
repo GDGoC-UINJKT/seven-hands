@@ -10,4 +10,6 @@ Tujuh belas tahun kemudian, satu file muncul kembali dari backup yang seharusnya
 
 Analis yang menemukan file itu curiga bahwa ini bukan sekadar arsip rusak. Struktur binernya menunjukkan file itu dibungkus berulang kali dengan format yang berbeda. Bukan kesalahan. Bukan kebetulan. Ini seperti setiap orang yang pernah memegang file itu sengaja meninggalkan satu lapisan, satu era, satu jejak.
 
+---
+### Objektif
 Tugasmu adalah membongkar seluruh lapisan itu, satu per satu, untuk menemukan pesan terakhir yang tak pernah sempat dikirim.
