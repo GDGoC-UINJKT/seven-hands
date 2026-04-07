@@ -13,3 +13,4 @@ Analis yang menemukan file itu curiga bahwa ini bukan sekadar arsip rusak. Struk
 ---
 ### Objektif
 Tugasmu adalah membongkar seluruh lapisan itu, satu per satu, untuk menemukan pesan terakhir yang tak pernah sempat dikirim.
+Lalu kirim hasilnya ke: [SINI](https://forms.gle/hFGh1DFo3H3BsJvJ7)
